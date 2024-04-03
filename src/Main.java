@@ -43,6 +43,6 @@ public class Main {
                 arrowNumbers[i]++;
             }
         }
-        System.out.println(Arrays.toString(arrowNumbers));
+        System.out.println(Arrays.toString(arrowNumbers));//
     }
 }
